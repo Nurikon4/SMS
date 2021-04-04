@@ -1,1 +1,1 @@
-https://nurikon4.github.io/SMS/
+https://nurikon4.github.io/sms/
